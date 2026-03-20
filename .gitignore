@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+._*
+
+# Editors
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Backups
+memory/backup/
+archive/
