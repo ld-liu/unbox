@@ -23,9 +23,9 @@ Unbox is a memory design methodology — three principles and a calibration loop
 
 **Fails:**
 ```
-User has a PhD in mechanics and an engineering background.
+User joined the project in January 2025.
 ```
-What happens: AI filters everything through "mechanics." You ask about history, AI invents a "historical mechanics" lens — forcing analogies to stress analysis because that's what it thinks you'll understand. The identity claim doesn't tell AI what to do; it gives AI material to build assumptions you never asked for.
+AI reads this and does nothing different. It has zero effect on the next response. Pure noise competing for attention budget.
 
 **Passes:**
 ```
@@ -39,9 +39,9 @@ Changes AI's next response directly. No assumptions, no invented frameworks.
 
 **Boxing:**
 ```
-User is systematic and methodical in their approach.
+User has a PhD in mechanics and an engineering background.
 ```
-AI expects systematic behavior and interprets everything through that lens — even when you're exploring, brainstorming, or just tired.
+AI filters everything through "mechanics." You ask about history, AI invents a "historical mechanics" lens — forcing analogies to stress analysis because that's what it thinks you'll understand. The identity claim doesn't tell AI what to do; it gives AI material to build assumptions you never asked for.
 
 **Not boxing:**
 ```
